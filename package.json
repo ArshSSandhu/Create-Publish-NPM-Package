@@ -1,0 +1,19 @@
+{
+  "name": "create-publish-npm-package",
+  "version": "1.0.0",
+  "description": "An NPM package that prints hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ArshSSandhu/Create-Publish-NPM-Package.git)"
+  },
+  "keywords": [
+    "NPM",
+    "tutorial"
+  ],
+  "author": "Arshpreet Singh Sandhu",
+  "license": "ISC"
+}
