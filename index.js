@@ -1,7 +1,7 @@
 function helloWorld(){
 
-return "Hello World";
+return "Hello World ABC";
 
 }
 
-module.exports = helloNPM;
+module.exports = helloWorld;
